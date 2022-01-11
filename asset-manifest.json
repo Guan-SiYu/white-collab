@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Guan-SiYu/white-collab/static/css/main.5cc1e151.css",
-    "main.js": "/Guan-SiYu/white-collab/static/js/main.bb8cbc3a.js",
-    "static/js/787.2412b081.chunk.js": "/Guan-SiYu/white-collab/static/js/787.2412b081.chunk.js",
-    "index.html": "/Guan-SiYu/white-collab/index.html",
-    "main.5cc1e151.css.map": "/Guan-SiYu/white-collab/static/css/main.5cc1e151.css.map",
-    "main.bb8cbc3a.js.map": "/Guan-SiYu/white-collab/static/js/main.bb8cbc3a.js.map",
-    "787.2412b081.chunk.js.map": "/Guan-SiYu/white-collab/static/js/787.2412b081.chunk.js.map"
+    "main.css": "/white-collab/static/css/main.5cc1e151.css",
+    "main.js": "/white-collab/static/js/main.45747bda.js",
+    "static/js/787.2412b081.chunk.js": "/white-collab/static/js/787.2412b081.chunk.js",
+    "index.html": "/white-collab/index.html",
+    "main.5cc1e151.css.map": "/white-collab/static/css/main.5cc1e151.css.map",
+    "main.45747bda.js.map": "/white-collab/static/js/main.45747bda.js.map",
+    "787.2412b081.chunk.js.map": "/white-collab/static/js/787.2412b081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cc1e151.css",
-    "static/js/main.bb8cbc3a.js"
+    "static/js/main.45747bda.js"
   ]
 }
